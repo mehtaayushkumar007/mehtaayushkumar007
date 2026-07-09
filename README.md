@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Ayush%20Mehta&fontSize=60&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62&descColor=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e9edc9&height=250&section=header&text=Ayush%20Mehta&fontSize=60&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=62&descColor=0d1117" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;200%2B+LeetCode+Problems+Solved;Building+with+React%2C+Node.js+%26+MySQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9EDC9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Android+Developer+with+Kotlin+%26+Jetpack+Compose;200%2B+LeetCode+Problems+Solved;Building+with+React%2C+Node.js+%26+MySQL" alt="Typing SVG" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-e9edc9?style=for-the-badge&logo=github&logoColor=black)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehtaayushkumar007&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/mehtaayushkumar007?style=flat-square&color=7dd3fc&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=mehtaayushkumar007&color=e9edc9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/mehtaayushkumar007?style=flat-square&color=e9edc9&label=Followers)
 
 </div>
 
@@ -50,7 +50,7 @@ const ayushMehta = {
 
 #### 🌐 Personal Portfolio Website
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehtaayushkumar007&repo=portfolio_ayush_mehta&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehtaayushkumar007&repo=portfolio_ayush_mehta&theme=nord&hide_border=true&title_color=e9edc9&icon_color=e9edc9&text_color=c9d1d9" width="450"/>
 
 A responsive resume web app built with semantic HTML and CSS media queries, ensuring cross-device compatibility and polished UI/UX.
 
@@ -107,10 +107,10 @@ An Android coffee ordering app with an intuitive UI, category-based browsing, se
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehtaayushkumar007&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaayushkumar007&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mehtaayushkumar007&show_icons=true&theme=nord&hide_border=true&title_color=e9edc9&icon_color=e9edc9&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaayushkumar007&layout=compact&theme=nord&hide_border=true&title_color=e9edc9&text_color=c9d1d9" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=mehtaayushkumar007&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=mehtaayushkumar007&theme=nord&hide_border=true&ring=e9edc9&fire=e9edc9&currStreakLabel=e9edc9" width="70%"/>
 
 </div>
 
@@ -126,7 +126,7 @@ An Android coffee ordering app with an intuitive UI, category-based browsing, se
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehtaayushkumar007&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehtaayushkumar007&theme=nord&hide_border=true&color=e9edc9&line=e9edc9&point=ffffff" width="100%"/>
 
 </div>
 
@@ -141,4 +141,4 @@ An Android coffee ordering app with an intuitive UI, category-based browsing, se
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e9edc9&height=150&section=footer&animation=twinkling" width="100%"/>
